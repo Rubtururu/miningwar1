@@ -1,0 +1,48 @@
+Uri: https://cryptominingwar.github.io/
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\index.htm
+Content Type: text/html
+
+Uri: https://cryptominingwar.github.io/dist/main.css
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\dist\main.css
+Content Type: text/css
+
+Uri: https://cryptominingwar.github.io/favicon.ico
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://cryptominingwar.github.io/favicons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\favicons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://cryptominingwar.github.io/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://cryptominingwar.github.io/favicons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://cryptominingwar.github.io/favicons/site.webmanifest
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\favicons\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://cryptominingwar.github.io/favicons/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-130934280-1
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://cryptominingwar.github.io/src/js/game.js?2018062501
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\src\js\game.js
+Content Type: application/javascript
+
+Uri: https://cryptominingwar.github.io/dist/build.js?2018062801
+File Name: C:\Downloaded Web Sites\cryptominingwar.github.io\dist\build.js
+Content Type: application/javascript
+
